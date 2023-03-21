@@ -1,0 +1,73 @@
+body {
+  background-color: #E8EAF6
+  
+}
+header, footer{
+  font-family: sans-serif;
+  font-style: normal;
+  color:  white;
+  background-color: #1A237E;
+  margin:  0 4em 1em 4em;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 2em;
+}
+h1 {
+  font-size: 1.8em
+}
+h3 {
+  padding: .6em;
+  font-size: 1.4em;
+  background-color: #7986CB;
+  color: white;
+  /* ;
+   */
+}
+nav {
+  background-color: #3F51B5;
+}
+a:link {
+  color: #00B0FF;
+}
+a:hover {
+  color: #F50057;
+}
+figcaption {
+  background-color: #C5CAE9;
+  padding: .4em;
+  color: #00B3B3;
+}
+section {
+  border: #E6E6FF solid .1em;
+  padding: 1em;
+
+}
+
+.byline {
+  font-style: italic;
+  color: #004DE6;
+}
+
+time {
+  font-style: italic;
+  color: #FF80AB;
+}
+
+main {
+  border: 0 solid transparent;
+  border-width: 1em;
+  padding: 1em;
+  background-color: #FFFFFF;
+  margin: 4em;
+
+}
+#ul_layout li{
+  background-color: #3F51B5;
+  display: inline;
+  font-size: 1em
+
+}
+/* #00B0FF for link colors, #F50057 for hover background colors */
+/* #C5CAE9 for img alt background and borders */
+/* #E8EAF6 for webpage background */
+/* #7986CB for section header backgrounds */

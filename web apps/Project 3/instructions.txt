@@ -1,0 +1,5 @@
+Project 2:
+1.	Create an array named countries that contain four object literal (name, continent, cities, and photos). Cities and photos should be arrays containing the city names and image filenames.
+2.	Create a function named outputCountryBox(name, continent, cities, photos).
+3.	Create two inner functions named outputCities() and outputPhotos().
+4.	Replace the markup for the country boxes with a loop through array of countries. Within loop, call outputCountryBox(), passing it the relevant data from country objects.
